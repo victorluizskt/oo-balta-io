@@ -1,0 +1,15 @@
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net8.0\OrientacaoObjetos.exe
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net8.0\OrientacaoObjetos.deps.json
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net8.0\OrientacaoObjetos.runtimeconfig.json
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net8.0\OrientacaoObjetos.dll
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\bin\Debug\net8.0\OrientacaoObjetos.pdb
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.AssemblyInfoInputs.cache
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.AssemblyInfo.cs
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.csproj.CoreCompileInputs.cache
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.sourcelink.json
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.dll
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\refint\OrientacaoObjetos.dll
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.pdb
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\OrientacaoObjetos.genruntimeconfig.cache
+C:\Balta.Io\OO\OrientacaoObjetos\OrientacaoObjetos\obj\Debug\net8.0\ref\OrientacaoObjetos.dll
