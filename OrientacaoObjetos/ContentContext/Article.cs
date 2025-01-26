@@ -1,6 +1,6 @@
 ﻿namespace OrientacaoObjetos.ContentContext;
 
-public class Article : Content
+public class Article(string title, string url) : Content(title, url) 
 {
     
 }

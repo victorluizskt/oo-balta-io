@@ -2,7 +2,7 @@
 
 namespace OrientacaoObjetos.ContentContext;
 
-public class Course : Content
+public class Course(string title, string url) : Content(title, url)
 {
     public string? Tag { get; set; }
     public int DurationInMinutes { get; set; }
