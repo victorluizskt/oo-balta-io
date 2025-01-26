@@ -1,6 +1,8 @@
-﻿namespace OrientacaoObjetos.ContentContext;
+﻿using OrientacaoObjetos.SharedContext;
 
-public class Module
+namespace OrientacaoObjetos.ContentContext;
+
+public class Module : Base
 {
     public int Order { get; set; }
     public string? Title { get; set; }
