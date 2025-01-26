@@ -1,11 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-using OrientacaoObjetos.ContentContext;
+﻿using OrientacaoObjetos.ContentContext;
+using OrientacaoObjetos.ContentContext.Enums;
 
-Console.WriteLine("Hello, World!");
+var course = new Course
+{
+    Level = EContentLevel.Fundamental
+};
 
-var course = new Course();
-
-foreach(var item in course.Modules)
+foreach (var item in course.Modules)
 {
     Console.WriteLine(item);
 }

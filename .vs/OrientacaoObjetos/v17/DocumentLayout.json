@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\contentcontext\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\contentcontext\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\contentcontext\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\contentcontext\\content.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\contentcontext\\enums\\econtentlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\contentcontext\\enums\\econtentlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\contentcontext\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|solutionrelative:orientacaoobjetos\\contentcontext\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5B052FB-8DB8-4572-A425-35E8566EEB49}|OrientacaoObjetos\\OrientacaoObjetos.csproj|c:\\balta.io\\oo\\orientacaoobjetos\\orientacaoobjetos\\contentcontext\\career.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +46,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Article.cs",
               "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Article.cs",
@@ -43,18 +55,17 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:41:26.548Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Course.cs",
               "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Course.cs",
               "ToolTip": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Course.cs",
               "RelativeToolTip": "OrientacaoObjetos\\ContentContext\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:41:30.206Z",
               "IsPinned": true,
@@ -62,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Career.cs",
               "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Career.cs",
               "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Career.cs",
@@ -71,12 +82,11 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:41:36.302Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Content.cs",
               "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Content.cs",
               "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Content.cs",
@@ -91,12 +101,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Lecture.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Lecture.cs",
+              "ToolTip": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Lecture.cs",
+              "RelativeToolTip": "OrientacaoObjetos\\ContentContext\\Lecture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T21:56:38.794Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EContentLevel.cs",
+              "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Enums\\EContentLevel.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Enums\\EContentLevel.cs",
+              "ToolTip": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Enums\\EContentLevel.cs",
+              "RelativeToolTip": "OrientacaoObjetos\\ContentContext\\Enums\\EContentLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:00:33.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Module.cs",
+              "RelativeDocumentMoniker": "OrientacaoObjetos\\ContentContext\\Module.cs",
+              "ToolTip": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\ContentContext\\Module.cs",
+              "RelativeToolTip": "OrientacaoObjetos\\ContentContext\\Module.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T21:56:18.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\Program.cs",
               "RelativeDocumentMoniker": "OrientacaoObjetos\\Program.cs",
               "ToolTip": "C:\\Balta.Io\\OO\\OrientacaoObjetos\\OrientacaoObjetos\\Program.cs",
               "RelativeToolTip": "OrientacaoObjetos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T21:42:29.007Z",
               "EditorCaption": ""
